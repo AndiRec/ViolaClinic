@@ -1,3 +1,4 @@
+php artisan route:list
 <?php
 
 use Illuminate\Database\Migrations\Migration;
